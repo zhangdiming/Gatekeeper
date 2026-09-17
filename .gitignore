@@ -1,0 +1,9 @@
+data/
+results/
+tables/
+figures/
+__pycache__/
+*.pyc
+*.npz
+*.h5
+.venv/
