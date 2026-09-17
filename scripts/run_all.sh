@@ -14,3 +14,4 @@ python src/make_tables.py main
 python src/analyze_flows.py main
 python src/fit_tables.py
 python src/draw_architecture.py
+python src/fig_onecol.py

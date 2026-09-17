@@ -19,6 +19,7 @@ src/analyze_flows.py        budget sweeps, threshold maintenance, Propositions 1
 src/fit_tables.py           sets every table to exact column/text width
 src/figstyle.py             shared palette and display names
 src/draw_architecture.py    Figure 1
+src/fig_onecol.py           single-column layouts of Figures 5 and 6
 scripts/run_all.sh          full pipeline
 ```
 
